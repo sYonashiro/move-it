@@ -3,6 +3,10 @@
 ## 🔖&nbsp; Sobre
 Aplicação web desenvolvida durante a **Next Level Week 04** (trilha ReactJS) da [Rocketseat](https://rocketseat.com.br/). que tem como objetivo contar os ciclos de trabalho no estilo "Pomodoro" onde é sugerido um desafio ao final de cada ciclo, visando evitar problemas recorrentes que acontecem com pessoas que passam muito tempo na frente do computador.
 
+<h3 align="center">
+    <a href="https://moveit-three-khaki.vercel.app/">✨ Acessar demonstração do projeto</a>
+<h3>
+
 <h1>
     <img src="public/moveit.gif">
 </h1>
